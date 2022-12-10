@@ -46,11 +46,17 @@ a, span {
     font-weight: 700;
 }
 
-.pink {
+.green {
     font-family: inherit;
     font-size: inherit;
     font-weight: inherit;
-    color: #F08CAE;
+    color: green;
+}
+.yellow {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    color: yellow;
 }
 
 ul {
