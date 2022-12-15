@@ -52,17 +52,17 @@
     font-family: 'Fira Code', monospace;
 }
 
-h3 {
+h2 {
     margin: 5px 0 0 0;
     text-align: left;
 }
 
-h3 strong {
+h2 strong {
     color: yellow;
     letter-spacing: 0.05em;
 }
 
-h3 a:hover {
+h2 a:hover {
     color: #7EB77F;
     text-decoration: underline;
 }
