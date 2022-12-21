@@ -17,7 +17,7 @@ h2, h3 {
     font-family: 'Fira Mono', monospace;
 }
 h1{
-    font-family: Hanken Grotesk;
+    font-family: 'Lato';
 }
 h2 {
     margin: 0 auto;
@@ -41,7 +41,7 @@ a, span {
 }
 
 .green {
-    color: #7EB77F;
+    color: #00FF00;
 }
 
 .bold {

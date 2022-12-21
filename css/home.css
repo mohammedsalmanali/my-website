@@ -37,7 +37,7 @@
     font-size: 1.5em;
     font-weight: 700;
     margin-bottom: 0.5em;
-    font-family:Hanken Grotesk;
+    font-family: 'Lato';
 }
 
 .big-title {
@@ -50,8 +50,8 @@
 
 .my-name {
     letter-spacing: 0.1em;
-    font-family: Roboto; /*'Fira Code', monospace;*/
-    font-size:40px;
+    font-family: 'Merriweather'; /*'Fira Code', monospace;*/
+    font-size:31px;
 }
 
 h3 {
